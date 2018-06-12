@@ -1,32 +1,13 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+package-lock.json
+build_*.properties
+dataPacksJobs/
+!dataPacksJobs/Example.yaml
+!dataPacksJobs/QueryDefinitions.yaml
+!dataPacksJobs/ReadMeExample.yaml
+!dataPacksJobs/ReadMeExamAllDefault.yaml
+node_modules/
+vlocity-temp/
+example_vlocity_build/
+test/testJobRunning/
+.vscode/
+.sfdx/
