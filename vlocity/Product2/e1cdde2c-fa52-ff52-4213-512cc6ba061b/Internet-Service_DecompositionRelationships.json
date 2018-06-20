@@ -1,0 +1,64 @@
+[
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "4f014ceb-a08a-9fd7-be1f-8eecf6605c48",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/4f014ceb-a08a-9fd7-be1f-8eecf6605c48",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "23115bb2-9269-a18c-e478-e97b4d994102",
+        "%vlocity_namespace%__MappingsData__c": "[{\"value\":\"SERVICE\",\"mapping_type\":\"static\",\"destination_attr_name\":\"billingSpecType\",\"destination_attr_code\":\"ATTR_BS_TYPE\"},{\"value\":\"INTERNET_SERVICE\",\"mapping_type\":\"static\",\"destination_attr_name\":\"serviceType\",\"destination_attr_code\":\"ATTR_BS_SVC_TYPE\"},{\"source_type\":\"Field\",\"source_field_name\":\"%vlocity_namespace%__SerialNumber__c\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"serviceID\",\"destination_attr_code\":\"ATTR_BS_SVC_ID\"},{\"source_type\":\"Field\",\"source_field_name\":\"CreatedDate\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"customerRequestedDate\",\"destination_attr_code\":\"ATTR_OIC_CST_RQST_DATE\"},{\"source_type\":\"Field\",\"source_field_name\":\"%vlocity_namespace%__RootItemId__c\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"rootBundleId\",\"destination_attr_code\":\"ATTR_OIC_ROOT_BUNDLE_ID\"},{\"value\":\"Billing\",\"mapping_type\":\"static\",\"destination_attr_name\":\"type\",\"destination_attr_code\":\"ATTR_OIC_TYPE\"},{\"source_type\":\"Field\",\"source_field_name\":\"%vlocity_namespace%__AssetReferenceId__c\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"id\",\"destination_attr_code\":\"ATTR_ID_UUID\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "Internet Service to Service Billing Spec",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Internet Service to Service Billing Spec/Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b"
+    },
+    {
+        "%vlocity_namespace%__ConditionData__c": "",
+        "%vlocity_namespace%__DestinationDefaultQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMaxQuantity__c": 1,
+        "%vlocity_namespace%__DestinationMinQuantity__c": 1,
+        "%vlocity_namespace%__DestinationProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "5ad5d775-7fe4-67f6-ad71-49d55446dcea",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "5f287eaf-f678-8a35-a266-5699f1f235c4",
+        "%vlocity_namespace%__MappingsData__c": "[{\"source_type\":\"Field\",\"source_field_name\":\"%vlocity_namespace%__SerialNumber__c\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"serviceNumber\",\"destination_attr_code\":\"ATTR_FS_SVC_NUM\"},{\"value\":\"Post-paid\",\"mapping_type\":\"static\",\"destination_attr_name\":\"paymentType\",\"destination_attr_code\":\"ATTR_FS_PYMNT_TYPE\"},{\"source_type\":\"Field\",\"source_field_name\":\"CreatedDate\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"customerRequestedDate\",\"destination_attr_code\":\"ATTR_OIC_CST_RQST_DATE\"},{\"value\":\"Standard 6dB\",\"mapping_type\":\"static\",\"destination_attr_name\":\"speedProfile\",\"destination_attr_code\":\"ATTR_FS_SPEED_PROFILE\"},{\"value\":\"Product\",\"mapping_type\":\"static\",\"destination_attr_name\":\"type\",\"destination_attr_code\":\"ATTR_OIC_TYPE\"},{\"source_type\":\"Field\",\"source_field_name\":\"%vlocity_namespace%__AssetReferenceId__c\",\"mapping_type\":\"ad-verbatim\",\"destination_attr_name\":\"id\",\"destination_attr_code\":\"ATTR_ID_UUID\"}]",
+        "%vlocity_namespace%__Priority__c": "",
+        "%vlocity_namespace%__RequireReservation__c": false,
+        "%vlocity_namespace%__SourceDefaultQuantity__c": 1,
+        "%vlocity_namespace%__SourceMaxQuantity__c": "",
+        "%vlocity_namespace%__SourceMinQuantity__c": 0,
+        "%vlocity_namespace%__SourceProductId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__SourceProductId__r.%vlocity_namespace%__GlobalKey__c": "e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+        "%vlocity_namespace%__XORGroup__c": "",
+        "Name": "Internet Service to Internet Fulfilment Spec",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Internet Service to Internet Fulfilment Spec/Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b"
+    }
+]
