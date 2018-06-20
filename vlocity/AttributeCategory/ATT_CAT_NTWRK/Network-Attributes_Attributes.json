@@ -1,0 +1,47 @@
+[
+    {
+        "%vlocity_namespace%__ActiveFlg__c": true,
+        "%vlocity_namespace%__ApplicableToAllRecords__c": false,
+        "%vlocity_namespace%__ApplicableToEntity__c": "",
+        "%vlocity_namespace%__AttributeCategoryCode__c": "ATT_CAT_NTWRK",
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "ATT_CAT_NTWRK",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/ATT_CAT_NTWRK",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeCategoryName__c": "Network Attributes",
+        "%vlocity_namespace%__Code__c": "ATTR_SVC_TYPE",
+        "%vlocity_namespace%__Configurable__c": true,
+        "%vlocity_namespace%__CopyMode__c": "",
+        "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
+        "%vlocity_namespace%__Description__c": "Type of access service",
+        "%vlocity_namespace%__DesignTime__c": "",
+        "%vlocity_namespace%__DisplaySequence__c": 1,
+        "%vlocity_namespace%__EditMode__c": "",
+        "%vlocity_namespace%__EffectiveFromDate__c": "",
+        "%vlocity_namespace%__EffectiveUntilDate__c": "",
+        "%vlocity_namespace%__Filterable__c": true,
+        "%vlocity_namespace%__GlobalKey__c": "bc5dd614-9bc9-9695-e6be-b2092fa17f30",
+        "%vlocity_namespace%__HelpText__c": "",
+        "%vlocity_namespace%__IsCloneable__c": true,
+        "%vlocity_namespace%__IsPrivate__c": false,
+        "%vlocity_namespace%__Overridable__c": "",
+        "%vlocity_namespace%__OwnerId__c": "",
+        "%vlocity_namespace%__PicklistId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "672975e6-7d3c-d779-c93f-b19b8345a415",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Picklist__c/672975e6-7d3c-d779-c93f-b19b8345a415",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
+        },
+        "%vlocity_namespace%__RunTime__c": "",
+        "%vlocity_namespace%__UniqueNameField__c": "",
+        "%vlocity_namespace%__ValueType__c": "Picklist",
+        "%vlocity_namespace%__Value__c": "",
+        "%vlocity_namespace%__isDefaultHidden__c": false,
+        "Name": "Service Type",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__Attribute__c/ATTR_SVC_TYPE"
+    }
+]
