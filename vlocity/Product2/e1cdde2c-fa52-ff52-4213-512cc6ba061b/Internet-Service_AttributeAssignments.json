@@ -1,0 +1,183 @@
+[
+    {
+        "%vlocity_namespace%__AddDate__c": "",
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "ATT_CAT_NTWRK",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/ATT_CAT_NTWRK",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "Service Type",
+        "%vlocity_namespace%__AttributeDisplaySequence__c": "1",
+        "%vlocity_namespace%__AttributeId__c": {
+            "%vlocity_namespace%__Code__c": "ATTR_SVC_TYPE",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Attribute__c/ATTR_SVC_TYPE",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
+        },
+        "%vlocity_namespace%__ConfigurationDetail__c": "",
+        "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
+        "%vlocity_namespace%__Data__c": "",
+        "%vlocity_namespace%__DefaultPicklistEntryId__c": "",
+        "%vlocity_namespace%__DefaultPicklistValueId__c": "",
+        "%vlocity_namespace%__DisplaySequence__c": "null",
+        "%vlocity_namespace%__EndStory__c": "",
+        "%vlocity_namespace%__ExcludedPicklistEntryIds__c": "",
+        "%vlocity_namespace%__ExcludedPicklistValues__c": "",
+        "%vlocity_namespace%__FormatMask__c": "",
+        "%vlocity_namespace%__GlobalKey__c": "2cc55675-eada-a8d0-0407-177c5dd0803d",
+        "%vlocity_namespace%__HasRule__c": false,
+        "%vlocity_namespace%__HelpText__c": "",
+        "%vlocity_namespace%__IsActiveAssignment__c": true,
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__IsConfigurable__c": false,
+        "%vlocity_namespace%__IsDynamic__c": false,
+        "%vlocity_namespace%__IsHidden__c": false,
+        "%vlocity_namespace%__IsOverride__c": false,
+        "%vlocity_namespace%__IsQueryDriven__c": false,
+        "%vlocity_namespace%__IsReadOnly__c": true,
+        "%vlocity_namespace%__IsRequired__c": true,
+        "%vlocity_namespace%__LookupFilter__c": "",
+        "%vlocity_namespace%__LookupObjectId__c": "",
+        "%vlocity_namespace%__LookupObjectTypeId__c": "",
+        "%vlocity_namespace%__ObjectId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__ObjectType__c": "Product2",
+        "%vlocity_namespace%__PicklistId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "672975e6-7d3c-d779-c93f-b19b8345a415",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Picklist__c/672975e6-7d3c-d779-c93f-b19b8345a415",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
+        },
+        "%vlocity_namespace%__QueryCode__c": "",
+        "%vlocity_namespace%__QueryLabel__c": "",
+        "%vlocity_namespace%__RemoveDate__c": "",
+        "%vlocity_namespace%__RemovedFlag__c": false,
+        "%vlocity_namespace%__RuleData__c": "",
+        "%vlocity_namespace%__RuleMessage__c": "",
+        "%vlocity_namespace%__StartStory__c": "",
+        "%vlocity_namespace%__StyleClass__c": "",
+        "%vlocity_namespace%__UIDisplayType__c": "Dropdown",
+        "%vlocity_namespace%__ValidValuesData__c": [
+            {
+                "displayText": "Mobile",
+                "id": 10,
+                "isDefault": false,
+                "isEditable": false,
+                "value": "Mobile"
+            },
+            {
+                "displayText": "Broadband",
+                "id": 20,
+                "isDefault": true,
+                "isEditable": false,
+                "value": "Broadband"
+            }
+        ],
+        "%vlocity_namespace%__ValueDataType__c": "Picklist",
+        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__Value__c": "Broadband",
+        "Name": "TempAA-ATTR_SVC_TYPE",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_SVC_TYPE/Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b"
+    },
+    {
+        "%vlocity_namespace%__AddDate__c": "",
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "ATT_CAT_RTNG",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/ATT_CAT_RTNG",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "Speed",
+        "%vlocity_namespace%__AttributeDisplaySequence__c": "1",
+        "%vlocity_namespace%__AttributeId__c": {
+            "%vlocity_namespace%__Code__c": "ATTR_SPEED",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Attribute__c/ATTR_SPEED",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
+        },
+        "%vlocity_namespace%__ConfigurationDetail__c": "",
+        "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
+        "%vlocity_namespace%__Data__c": "",
+        "%vlocity_namespace%__DefaultPicklistEntryId__c": "",
+        "%vlocity_namespace%__DefaultPicklistValueId__c": "",
+        "%vlocity_namespace%__DisplaySequence__c": "200",
+        "%vlocity_namespace%__EndStory__c": "",
+        "%vlocity_namespace%__ExcludedPicklistEntryIds__c": "",
+        "%vlocity_namespace%__ExcludedPicklistValues__c": "",
+        "%vlocity_namespace%__FormatMask__c": "",
+        "%vlocity_namespace%__GlobalKey__c": "0b20efdc-1969-c3a4-ab23-d9d66b28f1b4",
+        "%vlocity_namespace%__HasRule__c": false,
+        "%vlocity_namespace%__HelpText__c": "",
+        "%vlocity_namespace%__IsActiveAssignment__c": true,
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__IsConfigurable__c": false,
+        "%vlocity_namespace%__IsDynamic__c": false,
+        "%vlocity_namespace%__IsHidden__c": false,
+        "%vlocity_namespace%__IsOverride__c": false,
+        "%vlocity_namespace%__IsQueryDriven__c": false,
+        "%vlocity_namespace%__IsReadOnly__c": false,
+        "%vlocity_namespace%__IsRequired__c": true,
+        "%vlocity_namespace%__LookupFilter__c": "",
+        "%vlocity_namespace%__LookupObjectId__c": "",
+        "%vlocity_namespace%__LookupObjectTypeId__c": "",
+        "%vlocity_namespace%__ObjectId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__ObjectType__c": "Product2",
+        "%vlocity_namespace%__PicklistId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "888f1897-5c1a-d3bb-89d8-aeb855e738ae",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Picklist__c/888f1897-5c1a-d3bb-89d8-aeb855e738ae",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
+        },
+        "%vlocity_namespace%__QueryCode__c": "",
+        "%vlocity_namespace%__QueryLabel__c": "",
+        "%vlocity_namespace%__RemoveDate__c": "",
+        "%vlocity_namespace%__RemovedFlag__c": false,
+        "%vlocity_namespace%__RuleData__c": "",
+        "%vlocity_namespace%__RuleMessage__c": "",
+        "%vlocity_namespace%__StartStory__c": "",
+        "%vlocity_namespace%__StyleClass__c": "",
+        "%vlocity_namespace%__UIDisplayType__c": "Dropdown",
+        "%vlocity_namespace%__ValidValuesData__c": [
+            {
+                "displayText": "Standard Evening Speed",
+                "id": 20,
+                "isDefault": true,
+                "isEditable": false,
+                "value": "Standard 6dB"
+            },
+            {
+                "displayText": "Standard Plus Evening Speed",
+                "id": 30,
+                "isDefault": false,
+                "isEditable": false,
+                "value": "Very Fast"
+            },
+            {
+                "displayText": "Premium Evening Speed",
+                "id": 40,
+                "isDefault": false,
+                "isEditable": false,
+                "value": "Super Fast"
+            }
+        ],
+        "%vlocity_namespace%__ValueDataType__c": "Picklist",
+        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__Value__c": "Standard 6dB",
+        "Name": "NEW_ATTR_SPEED",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_SPEED/Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b"
+    }
+]
