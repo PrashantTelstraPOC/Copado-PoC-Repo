@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Billing Spec Attributes (a0K2N000000EwyUUAS)</members>
+        <members>Fulfilment Spec Attributes (a0K2N000000EwVcUAK)</members>
+        <members>Network Attributes (a0K2N000000EwVIUA0)</members>
+        <members>Physical Attributes (a0K2N000000EwVSUA0)</members>
+        <members>Rating Attributes (a0K2N000000EwVNUA0)</members>
+        <members>Subscription Attributes (a0K2N000000EwVXUA0)</members>
+        <members>idCharacteristics (a0K2N000000ExUkUAK)</members>
+        <members>orderItemCharacteristics (a0K2N000000ExUVUA0)</members>
+        <name>AttributeCategory</name>
+    </types>
+    <types>
+        <members>Internet Fulfilment Spec (01t2N000000EaayQAC)</members>
+        <members>Internet Service (01t2N000000EZ2yQAG)</members>
+        <members>Service Billing Spec (01t2N000000EdL7QAK)</members>
+        <name>Product2</name>
+    </types>
+    <version>42.0</version>
+</Package>

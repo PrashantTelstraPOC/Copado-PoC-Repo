@@ -1,0 +1,66 @@
+{
+    "orderCharacteristic": {
+        "correlationId": "8012N000000CirQQAS",
+        "orderSubmitDate": "2018-04-10T06:55:30Z"
+    },
+    "orderItem": [
+        {
+            "action": "Create",
+            "id": "a1i2N00000003QqQAI",
+            "orderItemCharacteristic": [
+                {
+                    "name": "family",
+                    "value": "Hybrid Modem"
+                },
+                {
+                    "name": "productInstanceID",
+                    "value": "15166fa6-293c-2901-42f2-195cbab0fbd1"
+                }
+            ],
+            "product": {
+                "productCharacteristic": [
+                    {
+                        "name": "quantity",
+                        "value": "1"
+                    },
+                    {
+                        "name": "customerRequestedDate",
+                        "value": "2018-04-09 00:00:00"
+                    },
+                    {
+                        "name": "productCode",
+                        "value": "OFF_000003"
+                    }
+                ],
+                "productSpecification": {
+                    "code": "V0000015"
+                }
+            },
+            "version": "1"
+        },
+        {
+            "action": "Create",
+            "id": "a1i2N00000003QrQAI",
+            "product": {
+                "productCharacteristic": [
+                    {
+                        "name": "customerRequestedDate",
+                        "value": "2018-04-09 00:00:00"
+                    },
+                    {
+                        "name": "paymentType",
+                        "value": "Post-paid"
+                    },
+                    {
+                        "name": "serviceNumber",
+                        "value": "null"
+                    }
+                ],
+                "productSpecification": {
+                    "code": "I0000001"
+                }
+            },
+            "version": "1"
+        }
+    ]
+}
