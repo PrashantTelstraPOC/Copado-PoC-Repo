@@ -64,7 +64,7 @@
         "Name": "TempAA-ATTR_FS_BUS_UNIT",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_BUS_UNIT/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_BUS_UNIT/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/d374ec2e-d9f1-1490-edd4-ed28a7573f7e"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -131,7 +131,7 @@
         "Name": "TempAA-ATTR_FS_PYMNT_TYPE",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_PYMNT_TYPE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_PYMNT_TYPE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/7d790d3f-ef3e-a8da-2b62-f553f6fed715"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -198,7 +198,7 @@
         "Name": "TempAA-ATTR_FS_SVC_NUM",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_SVC_NUM/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_SVC_NUM/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/d5525563-ef81-5cba-1074-b0fe9f7c33a2"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -265,7 +265,7 @@
         "Name": "TempAA-ATTR_FS_SVC_PROVIDER_ID",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_SVC_PROVIDER_ID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_SVC_PROVIDER_ID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/322c4d94-6ab5-791c-040a-e072d1370823"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -332,7 +332,7 @@
         "Name": "TempAA-ATTR_FS_SVC_STATE",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_SVC_STATE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_SVC_STATE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/9a5673bb-5d74-8427-3b47-268202197bf9"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -399,7 +399,7 @@
         "Name": "TempAA-ATTR_FS_SPEED_PROFILE",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_SPEED_PROFILE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_FS_SPEED_PROFILE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/417c4b10-aec2-d8ee-4bfe-ee65e0a94de6"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -466,7 +466,7 @@
         "Name": "TempAA-ATTRS_FS_THROTTLE_SPEED",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRS_FS_THROTTLE_SPEED/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRS_FS_THROTTLE_SPEED/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/06e4d42b-67bb-0f18-61e3-71ddb9dda406"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -533,7 +533,7 @@
         "Name": "TempAA-ATTR_ID_UUID",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_ID_UUID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_ID_UUID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/df18d923-8e26-996e-e3fe-e2c859a5af99"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -600,7 +600,7 @@
         "Name": "TempAA-ATT_ID_RELIES_ON_ID",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATT_ID_RELIES_ON_ID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATT_ID_RELIES_ON_ID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/a3e18069-1ed2-8cd6-8dfe-8725691c1224"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -667,7 +667,7 @@
         "Name": "TempAA-ATTR_OIC_ACCESS_TYPE",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_ACCESS_TYPE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_ACCESS_TYPE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/91451083-854f-83b6-b84c-c2693d940e4f"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -734,7 +734,7 @@
         "Name": "TempAA-ATTR_OIC_ADD_ID",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_ADD_ID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_ADD_ID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/75daed25-a194-21a9-25ac-9e7878c73bd1"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -801,7 +801,7 @@
         "Name": "TempAA-ATTR_FS_CST_RQST_DATE",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_CST_RQST_DATE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_CST_RQST_DATE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/c386508d-a10c-c2ba-8565-fdda69d2f689"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -868,7 +868,7 @@
         "Name": "TempAA-ATTR_OIC_PROD_INST_ID",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_PROD_INST_ID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_PROD_INST_ID/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/b2173857-45a0-448c-6c17-f541555d6cbe"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -935,6 +935,6 @@
         "Name": "TempAA-ATTR_OIC_TYPE",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_TYPE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_OIC_TYPE/Product2/5ad5d775-7fe4-67f6-ad71-49d55446dcea/GlobalKey/625fbd68-5d2c-4619-fd06-cfb5fb7fded8"
     }
 ]
