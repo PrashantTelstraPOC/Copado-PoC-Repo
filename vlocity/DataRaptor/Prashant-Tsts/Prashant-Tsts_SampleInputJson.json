@@ -1,0 +1,21 @@
+{
+    "ContextId": null,
+    "GetDetails": {
+        "FirstName": null,
+        "LastName": null
+    },
+    "Step2": {
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "CreateAccountContact": null,
+        "GetDetails": null,
+        "Step2": null
+    }
+}
