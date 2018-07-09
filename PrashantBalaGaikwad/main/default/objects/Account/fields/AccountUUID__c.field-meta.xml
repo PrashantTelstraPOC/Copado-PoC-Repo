@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AccountUUID__c</fullName>
+    <description>DP&amp;P identifier for Account. Generate a Ver 4 compliant UUID for all new Accounts</description>
+    <externalId>false</externalId>
+    <label>Account UUID</label>
+    <length>50</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
