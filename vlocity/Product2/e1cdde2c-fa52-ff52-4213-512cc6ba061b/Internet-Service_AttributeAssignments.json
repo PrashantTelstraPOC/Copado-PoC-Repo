@@ -84,7 +84,7 @@
         "Name": "TempAA-ATTR_SVC_TYPE",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_SVC_TYPE/Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_SVC_TYPE/Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b/GlobalKey/2cc55675-eada-a8d0-0407-177c5dd0803d"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -178,6 +178,6 @@
         "Name": "NEW_ATTR_SPEED",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_SPEED/Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTR_SPEED/Product2/e1cdde2c-fa52-ff52-4213-512cc6ba061b/GlobalKey/0b20efdc-1969-c3a4-ab23-d9d66b28f1b4"
     }
 ]

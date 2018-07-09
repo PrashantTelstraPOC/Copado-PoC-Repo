@@ -1,8 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Test Profile</members>
-        <name>Profile</name>
+        <members>Billing Spec Attributes (a0K2N000000EwyUUAS)</members>
+        <members>Fulfilment Spec Attributes (a0K2N000000EwVcUAK)</members>
+        <members>Network Attributes (a0K2N000000EwVIUA0)</members>
+        <members>Physical Attributes (a0K2N000000EwVSUA0)</members>
+        <members>Rating Attributes (a0K2N000000EwVNUA0)</members>
+        <members>Subscription Attributes (a0K2N000000EwVXUA0)</members>
+        <members>idCharacteristics (a0K2N000000ExUkUAK)</members>
+        <members>orderItemCharacteristics (a0K2N000000ExUVUA0)</members>
+        <name>AttributeCategory</name>
+    </types>
+    <types>
+        <members>Access Service Fulfilment Spec (a242N0000000ANHQA2)</members>
+        <members>Access Service Product Spec (a242N0000000ANvQAM)</members>
+        <members>Allowance Billing Spec (a242N0000000AMnQAM)</members>
+        <members>Base Billing Spec (a242N0000000AM9QAM)</members>
+        <members>Base Fulfilment Spec (a242N0000000AMEQA2)</members>
+        <members>Base Product Spec (a242N0000000AMiQAM)</members>
+        <members>Bolt On Billing Spec (a242N0000000AN2QAM)</members>
+        <members>Bolt On Fulfilment Spec (a242N0000000ANMQA2)</members>
+        <members>Bundle Billing Spec (a242N0000000AN7QAM)</members>
+        <members>Data Product Spec (a242N0000000ANqQAM)</members>
+        <members>Gateway Fulfilment Spec (a242N0000000ANbQAM)</members>
+        <members>Gateway Product Spec (a242N0000000AOAQA2)</members>
+        <members>Hardware Billing Spec (a242N0000000ANCQA2)</members>
+        <members>Hardware Fulfilment Spec (a242N0000000AMtQAM)</members>
+        <members>Hardware Product Spec (a242N0000000AO5QAM)</members>
+        <members>Internet Service Fulfilment Spec (a242N0000000ATXQA2)</members>
+        <members>Internet Service Product Spec (a242N0000000AdsQAE)</members>
+        <members>Product2 Object (a242N00000002knQAA)</members>
+        <members>Service Billing Spec (a242N0000000ANRQA2)</members>
+        <members>Speed Fulfilment Spec (a242N0000000ANWQA2)</members>
+        <members>Speed Product Spec (a242N0000000AO0QAM)</members>
+        <members>Subscription Product Spec (a242N0000000ANlQAM)</members>
+        <members>Virtual Product (a242N0000000AeJQAU)</members>
+        <name>ObjectClass</name>
+    </types>
+    <types>
+        <members>(Inherited)Layout-a242N0000000AM9QAM (a282N00000000A1QAI)</members>
+        <members>(Inherited)Layout-a242N0000000AM9QAM (a282N00000000AGQAY)</members>
+        <members>(Inherited)Layout-a242N0000000AM9QAM (a282N00000000ALQAY)</members>
+        <members>(Inherited)Layout-a242N0000000AM9QAM (a282N00000000AQQAY)</members>
+        <members>(Inherited)Layout-a242N0000000AM9QAM (a282N00000000AfQAI)</members>
+        <members>(Inherited)Layout-a242N0000000AMEQA2 (a282N00000000A7QAI)</members>
+        <members>(Inherited)Layout-a242N0000000AMEQA2 (a282N00000000AVQAY)</members>
+        <members>(Inherited)Layout-a242N0000000AMEQA2 (a282N00000000AaQAI)</members>
+        <members>(Inherited)Layout-a242N0000000AMiQAM (a282N00000000AzQAI)</members>
+        <members>(Inherited)Layout-a242N0000000AMiQAM (a282N00000000B4QAI)</members>
+        <members>(Inherited)Layout-a242N0000000AMiQAM (a282N00000000B9QAI)</members>
+        <members>(Inherited)Layout-a242N0000000AMiQAM (a282N00000000BEQAY)</members>
+        <members>(Inherited)Layout-a242N0000000AMiQAM (a282N00000000BJQAY)</members>
+        <members>(Inherited)Layout-a242N0000000AMiQAM (a282N00000000BOQAY)</members>
+        <members>(Inherited)Layout-a242N0000000AMiQAM (a282N00000000EhQAI)</members>
+        <members>(Inherited)Layout-a242N0000000AMtQAM (a282N00000000ApQAI)</members>
+        <members>(Inherited)Layout-a242N0000000ANHQA2 (a282N00000000CWQAY)</members>
+        <members>(Inherited)Layout-a242N0000000ANMQA2 (a282N00000000AkQAI)</members>
+        <members>(Inherited)Layout-a242N0000000ANvQAM (a282N00000000EXQAY)</members>
+        <members>Layout-a242N0000000AM9QAM (a282N000000009NQAQ)</members>
+        <members>Layout-a242N0000000AMEQA2 (a282N000000009SQAQ)</members>
+        <members>Layout-a242N0000000AMiQAM (a282N000000009wQAA)</members>
+        <members>Product2Layout (a282N000000000iQAA)</members>
+        <name>ObjectLayout</name>
+    </types>
+    <types>
+        <members>Internet Fulfilment Spec (01t2N000000EaayQAC)</members>
+        <members>Internet Service (01t2N000000EZ2yQAG)</members>
+        <members>Service Billing Spec (01t2N000000EdL7QAK)</members>
+        <name>Product2</name>
+    </types>
+    <types>
+        <members>Attachments (a3n2N0000000007QAA)</members>
+        <members>Attributes and Fields (a3n2N000000000AQAQ)</members>
+        <members>Context Rules (a3n2N000000000MQAQ)</members>
+        <members>General Properties (a3n2N0000000006QAA)</members>
+        <members>Layout Management (a3n2N000000000GQAQ)</members>
+        <members>Pricing (a3n2N000000000HQAQ)</members>
+        <members>Product Structure (a3n2N0000000009QAA)</members>
+        <name>UIFacet</name>
+    </types>
+    <types>
+        <members>Additional Properties (a3o2N000000000CQAQ)</members>
+        <members>Attachments (a3o2N000000000IQAQ)</members>
+        <members>Attributes and Fields (a3o2N000000000LQAQ)</members>
+        <members>Context (a3o2N000000000OQAQ)</members>
+        <members>Context Rules (a3o2N000000000dQAA)</members>
+        <members>Effectivity (a3o2N0000000002QAA)</members>
+        <members>General Properties (a3o2N000000000DQAQ)</members>
+        <members>Layout Management (a3o2N000000000WQAQ)</members>
+        <members>Pricing (a3o2N000000000YQAQ)</members>
+        <members>Product Structure (a3o2N000000000KQAQ)</members>
+        <members>Rule Info (a3o2N0000000007QAA)</members>
+        <members>Selection Criteria (a3o2N000000000EQAQ)</members>
+        <name>UISection</name>
+    </types>
+    <types>
+        <members>Broadband Speed (a2p2N00000000xmQAA)</members>
+        <members>Data Unit of Measure (a2p2N00000000y1QAA)</members>
+        <members>Gateway Brand (a2p2N00000000yBQAQ)</members>
+        <members>Gateway Colour (a2p2N00000000xrQAA)</members>
+        <members>Gateway Type (a2p2N000000018fQAA)</members>
+        <members>Service Type (a2p2N00000000xwQAA)</members>
+        <members>Subscription Size (a2p2N00000000xhQAA)</members>
+        <name>VlocityPicklist</name>
     </types>
     <version>42.0</version>
 </Package>
