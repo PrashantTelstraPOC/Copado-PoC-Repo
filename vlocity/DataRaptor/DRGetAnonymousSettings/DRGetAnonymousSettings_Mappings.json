@@ -1,0 +1,63 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "AnonCartSettings",
+        "%vlocity_namespace%__FilterGroup__c": 0,
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__FilterValue__c": "OrgId",
+        "%vlocity_namespace%__GlobalKey__c": "aee98706-dd08-4d0c-605b-a5c78326b78b",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SetupOwnerId",
+        "%vlocity_namespace%__InterfaceObjectLookupOrder__c": 1,
+        "%vlocity_namespace%__InterfaceObjectName__c": "AnonymousCartSettings__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRGetAnonymousSettingsCustom9191",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRGetAnonymousSettings",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "AnonAccountName",
+        "%vlocity_namespace%__GlobalKey__c": "f047d06e-8160-4446-e489-af5b3a16eeba",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "AnonCartSettings:Anonymous_Account_Name__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRGetAnonymousSettingsCustom5656",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRGetAnonymousSettings",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "PriceListName",
+        "%vlocity_namespace%__GlobalKey__c": "21b9cb6c-3f86-3233-a1f2-91b6df8f1546",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "AnonCartSettings:Price_List_Name__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRGetAnonymousSettingsCustom4967",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRGetAnonymousSettings",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 1,
+        "%vlocity_namespace%__GlobalKey__c": "20b30540-1eb7-57be-1205-bd7b2f4a6801",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRGetAnonymousSettingsCustom5006",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRGetAnonymousSettings",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]
