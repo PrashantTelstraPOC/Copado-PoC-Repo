@@ -1,0 +1,25 @@
+{
+    "ContextId": "",
+    "DRId_Account": "0012N000002NxuMQAS",
+    "DRId_Contact": "0032N000001jAeQQAU",
+    "GetDetails": {
+        "FirstName": "Test",
+        "LastName": "Test1",
+        "Mobile": 45462727
+    },
+    "id": "a2F2N00000000MpUAI",
+    "layout": "lightning",
+    "timeStamp": "2018-03-27T01:31:09.426Z",
+    "userCurrencyCode": "AUD",
+    "userId": "0052N000000Iv2xQAC",
+    "userName": "ashish.c.mathur@accenture.com.projzdev01",
+    "userProfile": "System Administrator",
+    "userTimeZone": 660,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "CreateAccountContact": 1116,
+        "GetDetails": 64543,
+        "OmniScriptSessionToken": "086ca30a-4143-4d4b-8248-1c89a0009810"
+    }
+}
