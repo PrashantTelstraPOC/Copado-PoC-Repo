@@ -1,0 +1,49 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "AnonCartSettings",
+        "%vlocity_namespace%__FilterGroup__c": 0,
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__FilterValue__c": "AnonCartSettingName",
+        "%vlocity_namespace%__GlobalKey__c": "9a1e0366-b1db-74c5-b541-3bec8ca0a39a",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Label",
+        "%vlocity_namespace%__InterfaceObjectLookupOrder__c": 1,
+        "%vlocity_namespace%__InterfaceObjectName__c": "Cart_Setting__mdt",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "NBN_DRGETAnonymousSettingsCustom3957",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "NBN_DRGETAnonymousSettings",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "AnonAccountName",
+        "%vlocity_namespace%__GlobalKey__c": "0721b722-0656-aa89-5501-1ed28bc61999",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "AnonCartSettings:Account_Name__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "NBN_DRGETAnonymousSettingsCustom2957",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "NBN_DRGETAnonymousSettings",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "PriceListName",
+        "%vlocity_namespace%__GlobalKey__c": "27c09809-0bc5-b397-ac29-a53ad09130c1",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "AnonCartSettings:Price_List_Name__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "NBN_DRGETAnonymousSettingsCustom1538",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "NBN_DRGETAnonymousSettings",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]
