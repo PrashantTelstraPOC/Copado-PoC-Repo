@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Copa_Test</members>
-        <members>VlocityCopadoTest</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>VlocityCopado Deploy 2 (a1A2N0000004HSeUAM)</members>
-        <members>VlocityCopado POC (a1A2N0000004HRPUA2)</members>
+        <members>VlocityCopado-POC 7 (a1A2N0000004JcDUAU)</members>
         <name>DataRaptor</name>
     </types>
     <version>42.0</version>
