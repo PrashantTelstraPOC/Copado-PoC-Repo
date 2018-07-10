@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>VlocityCopado-POC 7 (a1A2N0000004JcDUAU)</members>
+        <members>VlocityCopado-POC 8 (a1A2N0000004JcNUAU)</members>
         <name>DataRaptor</name>
+    </types>
+    <types>
+        <members>MACD ChangeToQuote English (a2F2N000000003JUAQ)</members>
+        <name>OmniScript</name>
     </types>
     <version>42.0</version>
 </Package>
