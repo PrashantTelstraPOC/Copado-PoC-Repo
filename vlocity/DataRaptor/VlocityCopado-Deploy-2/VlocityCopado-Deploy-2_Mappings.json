@@ -73,20 +73,6 @@
         "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
     },
     {
-        "%vlocity_namespace%__DefaultValue__c": "1",
-        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
-        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
-        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "version",
-        "%vlocity_namespace%__GlobalKey__c": "e182b714-30bc-d00b-4137-a970d1b33c44",
-        "%vlocity_namespace%__IsDisabled__c": false,
-        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
-        "%vlocity_namespace%__MapId__c": "VlocityCopado Deploy 2Customa1A2N0000004HSeUAMItem1",
-        "%vlocity_namespace%__UpsertKey__c": false,
-        "Name": "VlocityCopado Deploy 2",
-        "VlocityDataPackType": "SObject",
-        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
-    },
-    {
         "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
         "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
         "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
