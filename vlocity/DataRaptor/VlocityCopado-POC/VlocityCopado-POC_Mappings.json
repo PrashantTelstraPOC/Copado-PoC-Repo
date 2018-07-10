@@ -107,23 +107,6 @@
     {
         "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__CustomerInteraction__c",
         "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
-        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__VerificationTimestamp__c",
-        "%vlocity_namespace%__FormulaOrder__c": 0,
-        "%vlocity_namespace%__GlobalKey__c": "95c58b51-f03b-2af1-5e4d-9af88bf74917",
-        "%vlocity_namespace%__InterfaceFieldAPIName__c": "verificationResult:timestamp",
-        "%vlocity_namespace%__InterfaceObjectName__c": "json",
-        "%vlocity_namespace%__IsDisabled__c": false,
-        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
-        "%vlocity_namespace%__LinkCreatedIndex__c": 0,
-        "%vlocity_namespace%__MapId__c": "VlocityCopado POCCustoma1A2N0000004HRPUA2Item8",
-        "%vlocity_namespace%__UpsertKey__c": false,
-        "Name": "VlocityCopado POC",
-        "VlocityDataPackType": "SObject",
-        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
-    },
-    {
-        "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__CustomerInteraction__c",
-        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
         "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__VerifiedAgentName__c",
         "%vlocity_namespace%__FormulaOrder__c": 0,
         "%vlocity_namespace%__GlobalKey__c": "68b75a41-d71a-a49a-e296-479a7348036b",
